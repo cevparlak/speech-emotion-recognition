@@ -1,2 +1,0 @@
-Table 15: Cross-corpus experiments with Emobase feature set of IEMOCAP and 5Mix datasets.
-The highest accuracy is 37.61% with sVGG, and 37.19% with RBM.

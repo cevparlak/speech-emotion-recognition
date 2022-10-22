@@ -1,2 +1,0 @@
-Table 17: Cross-corpus experiments with Emobase+STER feature set of IEMOCAP and 5Mix datasets.
-The highest accuracy is 37.23% with RBM, and 32.13% with sVGG.
