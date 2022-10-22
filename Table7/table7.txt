@@ -1,0 +1,2 @@
+Table7: Experiments with Emobase feature set.
+On EmoDB, the highest accuracy is 87.28% with SVM, on EmoSTAR, the highest accuracy is 97.45% with sVGG.
