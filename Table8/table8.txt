@@ -1,3 +1,0 @@
-
-Table8: Experiments with proposed STER feature set.
-On EmoDB, the highest accuracy is 70.65% with SVM, on EmoSTAR, the highest accuracy is 88.29% with SVM.
