@@ -1,2 +1,0 @@
-Table 14: Cross-corpus experiments with Emobase+STER feature set of EmoSTAR and EmoDB datasets.
-The highest accuracy is 63.21% with RBM, and 46.31% with SVM.
