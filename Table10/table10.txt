@@ -1,0 +1,2 @@
+Table10: Experiments with IEMOCAP and 5Mix datasets using Emobase, STER, and Emobase+STER feature sets.
+On IEMOCAP, the highest accuracy is 66.81% with sVGG, on 5Mix, the highest accuracy is 87.56% with sVGG.

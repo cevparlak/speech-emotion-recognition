@@ -1,0 +1,5 @@
+Table11: Experiments with Information Gain and CFS Subset Evaluator feature selection. 
+We run Information Gain and CFS Subset feature selection on On EmoDB and EmoSTAR datasets using Emobase +STER feature set. Number of selected features are shown in parenthesis. 
+SVM, RBM, and sVGG results are given.
+SVM reaches 89.71% accuracy on EmoDB using 997 features from Emobase+STER feature set. This accuracy is above the current state-of-the-art highest score on EmoDB. Original number of features is 1304, selected number of features is 997.
+sVGG reaches 98.30% accuracy on EmoSTAR using only 135 features from Emobase+STER feature set. Original number of features is 1304, selected number of features is 135.
